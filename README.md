@@ -1,6 +1,6 @@
 
 # 📊 Online Retail Dataset Analysis
-The Online Retail dataset is a collection of transactional records from an e‑commerce business operating across multiple countries. Each entry is identified by an invoice number and describes the products, customers, and regions linked to that invoice.
+The Online Retail dataset is a collection of transactional records from an e‑commerce business operating across multiple countries. An invoice number identifies each entry and describes the products, customers, and regions linked to that invoice.
 
 As the company grows, it generates significant amounts of data in its sales operations, customer interactions, and product performance. This project leverages SQL exploration and Power BI visualization to analyze and synthesize this data, uncovering insights that can improve commercial success and strategic decision‑making.
 
@@ -9,6 +9,8 @@ As the company grows, it generates significant amounts of data in its sales oper
 - Columns: 8 (InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country)
 - Categorical features: InvoiceNo, StockCode, Description, InvoiceDate, CustomerID, Country
 - Numerical features: UnitPrice, Price
+  <img width="890" height="131" alt="Screenshot 2026-07-12 150821" src="https://github.com/user-attachments/assets/f9ff054e-434b-4a54-8398-81bcf7f1ad38" />
+
 
 # Insights and Recommendations
 ## Revenue Trend
@@ -23,6 +25,8 @@ Total revenue reached 11.5 M, with the fourth quarter consistently delivering th
 - Inverse relationship:
    - High‑volume products (e.g., 23843 at avg price 2.08) → lower revenue per unit.
    -  Premium products (e.g., AMAZONFEE at 7,324.78) → fewer units but higher revenue contribution.
+ <img width="461" height="192" alt="Screenshot 2026-07-12 150209" src="https://github.com/user-attachments/assets/0cc12cc9-6062-4311-832c-72ea68390709" />
+    
 
 ## 🌍 Revenue by Country
 - The United Kingdom leads in revenue, product quantity, and customer base, confirming its role as the primary market. 
