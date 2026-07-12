@@ -45,4 +45,4 @@ The SQL used to create a Product report/view can be explored [here](https://gith
 
 The SQL queries used to create a Customer Report/view can be found [here](https://github.com/Lynxjnr-maxi/First-week-AnalystLab-OnlineRetail/blob/main/OnlineRetail%20Customer%20View.csv)
 
-The Power BI Visualization for the dataset can be found [here]
+The Power BI Visualization for the dataset can be found [here](https://github.com/Lynxjnr-maxi/First-week-AnalystLab-OnlineRetail/blob/main/First%20Week%20AnalystLab%20Visualization.pdf)
