@@ -39,6 +39,6 @@ Total revenue reached 11.5 M, with the fourth quarter consistently delivering th
 -  Product Mix Optimization → Balance high‑volume products (23843) with premium items (AMAZONFEE) and mid‑tier products (M) to maximize profitability.
 -  Seasonality Strategy → Launch targeted campaigns in low‑revenue months (e.g., Valentine’s bundles in February).
 
-The SQL queries regarding the cleaning and exploratory analysis of the dataset can be found here
+The SQL queries regarding the cleaning and exploratory analysis of the dataset can be found [here](https://github.com/Lynxjnr-maxi/First-week-AnalystLab-OnlineRetail/blob/main/First%20Week%20AnalystLab%20script.sql)
 
 
